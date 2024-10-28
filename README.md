@@ -17,6 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohel-mahmud&show_icons=true&locale=en&layout=compact" alt="sohel-mahmud" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohel-mahmud&show_icons=true&locale=en" alt="sohel-mahmud" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohel-mahmud&" alt="sohel-mahmud" /></p>
