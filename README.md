@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohel Mahmud</h1>
 <h3 align="center">Mobile App Developer | Flutter | Dart | Swift | iOS</h3>
 
-- 💬 Ask me about **Flutter, dart, App store/play store support, App publishing, App monetisation, App Growth, ASO, Apple Search ADs**
+- 💬 Ask me about **Flutter, dart, App store/play store support, App publishing, App monetisation, Paywall**
 
 - 📫 How to reach me **sohel.cse.iiuc@gmail.com**
 
