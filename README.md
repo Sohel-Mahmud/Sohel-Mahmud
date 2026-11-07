@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sohel.cse.iiuc@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1LOmQR8qte7nFrsd6D-scE3RJSbfQ70if/view?usp=sharing](https://drive.google.com/file/d/1LOmQR8qte7nFrsd6D-scE3RJSbfQ70if/view?usp=sharing)]
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1rOoDwrqyCwlAJGPK9wQigXk5Y8t-Pwvd/view?usp=sharing](https://drive.google.com/file/d/1rOoDwrqyCwlAJGPK9wQigXk5Y8t-Pwvd/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
